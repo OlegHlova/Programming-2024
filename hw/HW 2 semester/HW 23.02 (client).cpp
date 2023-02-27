@@ -115,7 +115,7 @@ int main() {
     Client c1("Andrew" ,"andrew.gmail.com" ,"Shevchenka 16", 4444);
     Client c2("Mike" ,"mike.gmail.com" ,"Verbitskogo 20", 4445);
     Client c3("Ilon" ,"ilon.gmail.com" ,"Lvivska 21", 4456);
-    Client c4("Jhon" ,"jhon.gmail.com" ,"Doroshenka 11", 4457);
+    Client c4("John" ,"john.gmail.com" ,"Doroshenka 11", 4457);
     Client c5("Cristian" ,"cristian.gmail.com" ,"Bandery S. 2", 4458);
     Client c6("Oleh" ,"oleh.gmail.com" ,"Dzerelna 10", 4467);
     Client c7("Sue" ,"sue.gmail,com" ,"Pohulianka 12", 4468);
