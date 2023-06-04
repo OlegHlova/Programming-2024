@@ -1,0 +1,21 @@
+Oleg 1 12 2023 Studying 2600
+Oleg 2 12 2023 Walking 2600 Studying 1800 Eating 5200
+Oleg 3 12 2023 Friends 2600 Walking 1800
+Oleg 4 12 2023 Eating 2600
+Oleg 5 12 2023 Walking 2600 Eating 1800 Friends 5200
+Oleg 6 12 2023 Studying 2600 Walking 1800
+Oleg 7 12 2023 Friends 2600 Studying 1800 Walking 5200
+Dmytro 1 12 2023 Studying 2600 Eating 1800 Friends 5200
+Dmytro 2 12 2023 Walking 2600
+Dmytro 3 12 2023 Friends 2600 Walking 1800
+Dmytro 4 12 2023 Eating 2600 Friends 1800 Walking 5200
+Dmytro 5 12 2023 Walking 2600 Eating 1800 Friends 5200
+Dmytro 6 12 2023 Studying 2600
+Dmytro 7 12 2023 Friends 2600 Studying 1800 Walking 5200
+Alex 1 12 2023 Studying 2600 Eating 1800
+Alex 2 12 2023 Walking 2600
+Alex 3 12 2023 Friends 2600 Walking 1800 Studying 5200
+Alex 4 12 2023 Eating 2600
+Alex 5 12 2023 Walking 2600 Eating 1800 Friends 5200
+Alex 6 12 2023 Studying 2600 Walking 1800
+Alex 7 12 2023 Friends 2600 Studying 1800 Walking 5200

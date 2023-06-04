@@ -1,0 +1,4 @@
+"Walking" action total duration:
+  Oleg: 14000 sec.
+  Dmytro: 17400 sec.
+  Alex: 14000 sec.
